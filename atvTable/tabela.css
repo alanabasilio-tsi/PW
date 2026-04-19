@@ -1,0 +1,9 @@
+table, caption, th, tr, td{
+    border: solid, 1px;
+}
+table{
+    width: 50%;
+}
+caption, tfoot{
+    font-weight: bold;
+}
