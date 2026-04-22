@@ -1,0 +1,41 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(18, 18, 82);
+    color: aliceblue;
+}
+table, caption, th, tr, td{
+    border: solid, 1px;
+}
+table{
+    width: 30%;
+    border-collapse: collapse; 
+    margin-left: 40%;
+    padding: 5px;
+}
+caption, tfoot{
+    font-weight: bold;
+}
+
+img{
+    width: 80px;
+    height: auto;
+}
+
+h2{
+    margin: 0;
+    margin-top: 5%;
+    text-align: center;
+}
+
+section img{
+    width: 25%;
+    height: auto;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
