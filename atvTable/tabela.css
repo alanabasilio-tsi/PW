@@ -1,9 +1,19 @@
+body{
+    margin-left: 45%;
+    
+}
 table, caption, th, tr, td{
     border: solid, 1px;
 }
 table{
-    width: 50%;
+    width: 15%;
+    /*border-collapse: collapse; para tirar espaços*/
 }
 caption, tfoot{
     font-weight: bold;
+}
+
+img{
+    width: 80px;
+    height: auto;
 }
