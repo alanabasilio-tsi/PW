@@ -1,0 +1,23 @@
+table, caption, th, tr, td{
+    border: solid, 3px;
+    border-color: rgb(149, 35, 94);
+}
+th{
+     background-color: rgb(81, 24, 131);
+    color: white;
+}
+.par{
+    background-color: rgb(231, 205, 254);
+}
+table{
+    width: 40%;
+    border-collapse: collapse; 
+}
+caption, tfoot{
+    font-weight: bold;   
+    border-bottom: 1px;
+}
+.total{
+    width: 45px;
+    height: auto;
+}
