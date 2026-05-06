@@ -1,0 +1,20 @@
+/*#052c53 #094c90 #097188*/
+main{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+nav{
+   background-color: #90091d;
+   height: 70px;
+   text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    line-height: 70px;
+    padding-left: 10%;
+}
+nav a:hover{
+    background-color: #094c90;
+    text-decoration: underline;
+}
