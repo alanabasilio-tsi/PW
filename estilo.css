@@ -1,0 +1,40 @@
+img{
+    height: 15%;
+    width: auto;
+}
+.bgimg { 
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ z-index: 1; 
+}
+
+.fgimg { 
+ position: absolute;
+ top: 55px;
+ left: 45px;
+ z-index: 2; 
+}
+
+.text { 
+ position: absolute;
+ top: 200px;
+ left: 20px;
+ z-index: 3;
+ font-size: large;
+ font-family: tahoma, geneva;
+ } 
+
+ p { font-size: 1.3em;
+ font-family: verdana; }
+span { color: red;
+ font-size: .6em;
+ height: 1em }
+.super { position: relative;
+ top: -1ex }
+.sub { position: relative;
+ bottom: -1ex }
+.shiftleft { position: relative;
+ left: -1ex }
+.shiftright { position: relative;
+ right: -1ex }
